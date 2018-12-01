@@ -1,2 +1,3 @@
 # Matrix operations
-Studying task 
+Student task
+Matrix operations on c++
